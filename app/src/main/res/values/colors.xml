@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#1fa7d9</color>
+
+    <color name="Success">#FF5FDA69</color>
+    <color name="Unpaid">#FFDA5F6A</color>
+
+    <color name="semitransparent">#6d000000</color>
+    <color name="scannerBar">#c10a04</color>
+</resources>
